@@ -1,0 +1,16 @@
+{
+  "name": "rodri/custom-user-fields",
+  "description": "It handles custom user fields",
+  "authors": [
+    {
+      "name": "Rodrigo Del Bem",
+      "email": "rodrigodelbem@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "CustomUserFields\\": "./"
+    }
+  }
+}
